@@ -12,7 +12,7 @@ After the installation, you will see the config in your `patternlab-config.json`
 
 ```
 "plugins": {
-  "patternlab-plugin-pattern-wrap": {
+  "@hadl/patternlab-plugin-pattern-wrap": {
     "enabled": true,
     "initialized": false,
     "options": {
@@ -25,7 +25,7 @@ After the installation, you will see the config in your `patternlab-config.json`
 If you don't see this config object, add the plugin via the command:
 
 ``` 
-patternlab install --plugins patternlab-plugin-pattern-wrap 
+patternlab install --plugins @hadl/patternlab-plugin-pattern-wrap 
 ```
 
 In the `wrapClassKey` array you can add the data keys which should be used to get the class names.

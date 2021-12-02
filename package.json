@@ -1,6 +1,6 @@
 {
   "name": "@hadl/patternlab-plugin-pattern-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pattern Wrapper Plugin for Pattern Lab Node",
   "main": "index.js",
   "scripts": {
