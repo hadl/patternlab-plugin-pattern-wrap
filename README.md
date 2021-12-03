@@ -6,6 +6,12 @@ If it gets included in another pattern, the wrapper is not added.
 
 This comes in handy if you, for example, use theming classes to visualize different backgrounds, colors etc.
 
+## Install
+
+```
+npm i @hadl/patternlab-plugin-pattern-wrap -D
+```
+
 ## Configuration
 
 After the installation, you will see the config in your `patternlab-config.json`:
@@ -25,7 +31,7 @@ After the installation, you will see the config in your `patternlab-config.json`
 If you don't see this config object, add the plugin via the command:
 
 ``` 
-patternlab install --plugins @hadl/patternlab-plugin-pattern-wrap 
+npx patternlab install --plugins @hadl/patternlab-plugin-pattern-wrap 
 ```
 
 In the `wrapClassKey` array you can add the data keys which should be used to get the class names.

@@ -3,7 +3,7 @@
  * @return {string}
  */
 function getPluginName() {
-  return 'patternlab-plugin-pattern-wrap';
+  return '@hadl/patternlab-plugin-pattern-wrap';
 }
 
 /**
