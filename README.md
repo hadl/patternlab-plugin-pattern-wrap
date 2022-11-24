@@ -1,3 +1,6 @@
+> **Warning**  
+> Repo is archived! Plugin available in Pattern Lab core: https://github.com/pattern-lab/patternlab-node/releases/tag/v5.17.0
+
 # Pattern Wrapper Plugin for Pattern Lab Node
 
 This plugin allows users to add a wrapper div with css class(es) around a pattern when shown in the
